@@ -28,5 +28,6 @@ public class App {
         game.printBoard();
         game.makeMove(rook, 3, 2);
         game.printBoard();
+        System.out.println("Test");
     }
 }
